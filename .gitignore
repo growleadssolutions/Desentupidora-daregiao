@@ -6,3 +6,6 @@ node_modules/
 .playwright-mcp/
 *.log
 .npm-cache/
+/dist/
+.vinext/
+.cloudflare/
